@@ -1,10 +1,4 @@
-# 🎮 LangerGamer
-
 <div align="center">
-
-### 『 Frontend Developer & UI Architect 』
-
-<img src="https://readme-typing-svg.demolab.com/?lines=🎯+React+%26+Next.js+Developer;⚡+TypeScript+Expert;🎨+UI%2FUX+Enthusiast;💻+3%2B+Years+Experience;🚀+Always+Learning&font=JetBrains+Mono&center=true&width=500&height=50&color=00CED1&vCenter=true&pause=1000&size=20" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LangerGamer&color=00CED1&style=for-the-badge)](https://github.com/LangerGamer)
 [![Followers](https://img.shields.io/github/followers/LangerGamer?style=for-the-badge&color=00CED1&labelColor=1a1a2e)](https://github.com/LangerGamer?tab=followers)
