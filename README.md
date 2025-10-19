@@ -1,11 +1,3 @@
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=LangerGamer&color=00CED1&style=for-the-badge)](https://github.com/LangerGamer)
-[![Followers](https://img.shields.io/github/followers/LangerGamer?style=for-the-badge&color=00CED1&labelColor=1a1a2e)](https://github.com/LangerGamer?tab=followers)
-[![Stars](https://img.shields.io/github/stars/LangerGamer?style=for-the-badge&color=00CED1&labelColor=1a1a2e)](https://github.com/LangerGamer?tab=repositories)
-
-</div>
-
 ---
 
 ## About Me
