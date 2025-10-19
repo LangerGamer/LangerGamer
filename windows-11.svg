@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+<defs>
+<clipPath id="clip0_windows_frame">
+<rect width="256" height="256" fill="white"/>
+</clipPath>
+<clipPath id="roundedRect">
+<rect x="0" y="0" width="172" height="172" rx="12" ry="12"/>
+</clipPath>
+<linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#0078d4;stop-opacity:1" />
+</linearGradient>
+<linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#00bcf2;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#0078d4;stop-opacity:1" />
+</linearGradient>
+<linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#40e0d0;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#0078d4;stop-opacity:1" />
+</linearGradient>
+<linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" style="stop-color:#0078d4;stop-opacity:1" />
+<stop offset="100%" style="stop-color:#106ebe;stop-opacity:1" />
+</linearGradient>
+</defs>
+<g clip-path="url(#clip0_windows_frame)">
+<!-- Background Frame -->
+<rect x="0" y="0" width="256" height="256" rx="60" ry="60" fill="#242938"/>
+
+<!-- Windows Logo -->
+<g transform="translate(40, 40)" clip-path="url(#roundedRect)">
+<!-- Top Left Square -->
+<rect x="0" y="0" width="84" height="84" fill="url(#gradient1)"/>
+<!-- Top Right Square -->
+<rect x="88" y="0" width="84" height="84" fill="url(#gradient2)"/>
+<!-- Bottom Left Square -->
+<rect x="0" y="88" width="84" height="84" fill="url(#gradient3)"/>
+<!-- Bottom Right Square -->
+<rect x="88" y="88" width="84" height="84" fill="url(#gradient4)"/>
+</g>
+</g>
+</svg>
