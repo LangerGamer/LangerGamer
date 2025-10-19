@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const LangerGamer = {
@@ -44,7 +44,7 @@ const LangerGamer = {
 };
 ```
 
-### 🌟 My Journey
+### My Journey
 
 - **2023**: Started web development journey
 - **2024**: Began professional work with React & Next.js
@@ -56,7 +56,7 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 <p>
@@ -86,7 +86,7 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ---
 
-## 🎯 Discord Status
+## Discord Status
 
 <div align="center">
 
@@ -130,41 +130,15 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/898834886679494676)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amir.void12)
-[![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirdavodinia.ir)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirdavodinia.ir@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/langer.gamer)
+[![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langergamer.vercel.ir)
 
 </div>
 
 ---
 
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00CED1)
-
-</div>
-
-<div align="center">
-
-**Made with ❤️ by LangerGamer**
-
-![Last Commit](https://img.shields.io/github/last-commit/LangerGamer/LangerGamer?style=flat-square&color=00CED1)
-![License](https://img.shields.io/badge/License-MIT-00CED1?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
