@@ -143,17 +143,6 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ---
 
-## ☕ Support My Work
-
-<div align="center">
-
-If you like what I do and want to support my journey, consider buying me a coffee! ☕
-
-<a href="https://amirdavodinia.ir/donate" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />
-</a>
-
-</div>
 
 ---
 
