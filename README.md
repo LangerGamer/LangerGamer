@@ -119,13 +119,13 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 <div align="center">
 
 <a href="https://discord.com/users/898834886679494676">
-<img src="https://img.shields.io/badge/LangerGamer-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/LangerGamer-%23000000.svg?style=for-the-badge&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://instagram.com/langer.gamer">
-<img src="https://img.shields.io/badge/@langer.gamer-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/@langer.gamer-%23000000.svg?style=for-the-badge&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://langergamer.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=white" alt="Website"/>
 </a>
 
 </div>
