@@ -5,9 +5,9 @@ const LangerGamer = {
     aka: "LangerGamer",
     age: 17,
     location: "Unknown",
-    role: "Frontend Developer & UI Architect",
+    role: "Frontend Developer",
     
-    started_coding: "2 years ago",
+    started_coding_: "2 years ago",
     professional_since: "Early 2024",
     
     currently_working_on: {
@@ -24,7 +24,7 @@ const LangerGamer = {
         "Server-Side Rendering"
     ],
 
-    motto: "Always eager to help others solve their problems! ✨"
+    motto: "Always eager to help others solve their problems!"
 };
 ```
 
@@ -36,7 +36,7 @@ const LangerGamer = {
 
 I've worked on **numerous exclusive projects** for businesses, startups, and content creators, helping them enhance their digital presence and user engagement.
 
-> 💙 Your support means everything! Due to limited support, I've slowed down a bit, but my commitment to quality remains unwavering.
+> Your support means everything! Due to limited support, I've slowed down a bit, but my commitment to quality remains unwavering.
 
 ---
 
@@ -49,12 +49,12 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ### Styling & UI
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,jquery" />
 </p>
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,php,python,java" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,python,java" />
 </p>
 
 ### Tools & Environment
@@ -64,8 +64,8 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 ### Operating Systems
 <p>
-<img src="https://skillicons.dev/icons?i=linux,apple" />
-<img src="https://github.com/AmirVoid12/AmirVoid12/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://github.com/LangerGamer/LangerGamer/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/898834886679494676)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/langer.gamer)
-[![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langergamer.vercel.ir)
+[![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langergamer.vercel.app)
 
 </div>
 
