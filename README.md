@@ -1,5 +1,3 @@
----
-
 ## About Me
 
 ```typescript
@@ -29,7 +27,6 @@ const LangerGamer = {
     motto: "Always eager to help others solve their problems! ✨"
 };
 ```
----
 
 ### My Journey
 
