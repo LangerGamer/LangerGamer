@@ -25,10 +25,11 @@ const LangerGamer = {
         "Advanced TypeScript Patterns",
         "Server-Side Rendering"
     ],
-    
+
     motto: "Always eager to help others solve their problems! ✨"
 };
 ```
+---
 
 ### My Journey
 
