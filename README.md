@@ -74,29 +74,29 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LangerGamer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=00CED1&text_color=ffffff&count_private=true&custom_title=GitHub+Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LangerGamer&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&count_private=true&custom_title=GitHub+Stats" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=LangerGamer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakLabel=00CED1&sideLabels=00CED1&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LangerGamer&bg_color=0d1117&color=00CED1&line=00CED1&point=ffffff&area=true&area_color=00CED1&title_color=ffffff&custom_title=Contribution+Activity&hide_border=true&height=300" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=LangerGamer&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangerGamer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=ffffff&count_private=true&langs_count=8&custom_title=Most+Used+Languages" />
-
-<img width="49%" src="https://github-widgetbox.vercel.app/api/profile?username=LangerGamer&data=followers,repositories,stars,commits&theme=nautilus" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LangerGamer&bg_color=0d1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&title_color=ffffff&custom_title=Contribution+Activity&hide_border=true&height=300" />
 
 </div>
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=LangerGamer&theme=algolia&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangerGamer&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&count_private=true&langs_count=8&custom_title=Most+Used+Languages" />
+
+<img width="49%" src="https://github-widgetbox.vercel.app/api/profile?username=LangerGamer&data=followers,repositories,stars,commits&theme=darkmode" />
+
+</div>
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=LangerGamer&theme=onestar&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 </div>
 
@@ -120,9 +120,8 @@ I've worked on **numerous exclusive projects** for businesses, startups, and con
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/898834886679494676)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/langer.gamer)
-[![Website](https://img.shields.io/badge/Website-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://langergamer.vercel.app)
+[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://langergamer.vercel.app)
 
 </div>
 
 ---
-
