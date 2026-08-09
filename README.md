@@ -1,17 +1,14 @@
-# AmirVoid12 (AmirDavodinia)
+# AmirVoid12
 
-i'm amir, from tabriz. born 2009. 🎗️
+i'm amir, from tabriz.
 
-computers were always there — when things got hard, when things got quiet.
-at 12 i got into how they actually work. not just using them,
-like actually understanding the hardware, software, how it all fits.
-assembly included. then 13 hit and i started writing real code,
-python first, then javascript. by 15 i felt solid enough to go deeper.
-now i'm 16. still standing. still building.
+computers were always there. at some point i got into how they actually work —
+not just using them, like actually understanding the hardware, software, how it
+all fits. assembly included. started writing real code, python first, then
+javascript. kept going deeper from there. still building.
 
-i've taken hits. life didn't go easy. but every setback pushed me
-further into the craft — not away from it. i'm not here to survive,
-i'm here to grow. and i haven't stopped yet.
+every setback pushed me further into the craft — not away from it.
+i'm not here to just get by, i'm here to grow. and i haven't stopped yet.
 
 outside of coding i know my way around hardware —
 can take apart and rebuild systems, diagnose issues, the usual.
