@@ -2,64 +2,62 @@
 
 i'm amir, from tabriz.
 
-computers were always there. at some point i got into how they actually work —
-not just using them, like actually understanding the hardware, software, how it
-all fits. assembly included. started writing real code, python first, then
-javascript. kept going deeper from there. still building.
+i'm a developer with a focused, deliberate approach to my craft. i don't chase every language or framework that comes out - i go deep into a specific set of tools, and i know them well. that's a choice, not a limitation.
 
-every setback pushed me further into the craft — not away from it.
-i'm not here to just get by, i'm here to grow. and i haven't stopped yet.
+computers were always there. at some point i got into how they actually work - not just using them, but genuinely understanding the hardware, the software, and how it all fits together. assembly included. i started writing real code with python, then moved to javascript, and kept going deeper from there. still building.
 
-outside of coding i know my way around hardware —
-can take apart and rebuild systems, diagnose issues, the usual.
-networking too. i understand how things talk to each other,
-not just on the surface. english i picked up on my own,
-mostly through docs, tech content, and just grinding through it.
+every setback pushed me further into the craft, not away from it. i'm not here to just get by - i'm here to grow, and i haven't stopped yet.
+
+outside of coding i know my way around hardware: i can take apart and rebuild systems, diagnose issues, the usual. networking too - i understand how things communicate, not just on the surface. english i picked up on my own, mostly through documentation, technical content, and consistent effort.
 
 🌐 [amirvoid12.ir](https://amirvoid12.ir)
 
----
+-
 
 ## stuff i know
 
 ### languages i'm solid in
 
-<p><img src="https://skillicons.dev/icons?i=rust,js,ts,python,java,c" /></p>
+i keep this list intentionally focused. i'm not someone who claims to "know" a long list of languages - the ones below, i actually know, in depth, and use in real work.
 
-**rust** is my main thing right now. forces you to think properly.  
-**typescript / javascript** — node.js backend, clean and typed.  
-**python** — when i just need to get something done.  
-**java**, **c** — here and there.  
-**assembly** — when i feel like going low level.  
-**bash / shell / cmd** — scripting, automation, system stuff. daily use.  
-**c# (.net)** — done real work with it.  
+<p><img src="https://skillicons.dev/icons?i=rust,go,js,ts,python,java,c,cpp" /></p>
 
-### frameworks & runtime
+**rust** - my main language right now. forces you to think properly about ownership, memory, and correctness.
+**go** - built for systems and backend work where simplicity and performance both matter.
+**typescript / javascript** - node.js backend development, clean and strongly typed.
+**python** - for rapid development and getting things done efficiently.
+**java**, **c**, **c++** - core systems and application work.
+**assembly** - for low-level work when the situation calls for it.
+**bash / shell / cmd** - scripting, automation, and daily system administration.
+**c# (.net)** - applied in real production work.
 
-**next.js**, **vue.js** — frontend when needed.
+### frameworks & technologies
 
-### languages i'm actively learning
+**next.js**, **vue.js** - frontend development when required.
+**tailwindcss** - for styling and rapid UI development.
 
-i gravitate toward hard languages. the ones that don't hold your hand.
-currently going deeper into:
+### languages i'm actively expanding into
 
-**C++** — the obvious next step after C and systems work.  
-and on the list: `VBScript` · `Elixir` · `Dart` · and more as i go.
+i deliberately choose languages that demand real understanding rather than ones that abstract everything away. currently going deeper into:
+
+`VBScript` · `Elixir` · `Dart` · and others, as needed.
 
 ### databases
 
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /></p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,redis" /></p>
 
-mongodb, mysql, redis — depends on what the project actually needs.
+mongodb, mysql, mariadb, redis - selected based on what the project actually requires.
 
-### tools
+### tools & ides
 
-<p><img src="https://skillicons.dev/icons?i=vscode,idea" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,goland" /></p>
 
-- RustRover for rust  
-- CLion for c / c++  
-- IntelliJ for java  
-- VSCode for everything else  
+- **RustRover** - rust development
+- **GoLand** - go development
+- **CLion** - c / c++ development
+- **PyCharm** - python development
+- **IntelliJ IDEA** - java development
+- **VSCode** - everything else
 
 ### os
 
