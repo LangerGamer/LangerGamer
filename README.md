@@ -11,7 +11,6 @@ every setback pushed me further into the craft, not away from it. i'm not here t
 outside of coding i know my way around hardware: i can take apart and rebuild systems, diagnose issues, the usual. networking too - i understand how things communicate, not just on the surface. english i picked up on my own, mostly through documentation, technical content, and consistent effort.
 
 🌐 [amirvoid12.ir](https://amirvoid12.ir)
-.
 
 ## stuff i know
 
