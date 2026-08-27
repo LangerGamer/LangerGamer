@@ -11,6 +11,7 @@ every setback pushed me further into the craft, not away from it. i'm not here t
 outside of coding i know my way around hardware: i can take apart and rebuild systems, diagnose issues, the usual. networking too - i understand how things communicate, not just on the surface. english i picked up on my own, mostly through documentation, technical content, and consistent effort.
 
 🌐 [amirvoid12.ir](https://amirvoid12.ir)
+.
 
 ## stuff i know
 
@@ -45,13 +46,13 @@ i deliberately choose languages that demand real understanding rather than ones 
 
 ### databases
 
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,redis" /></p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" /></p>
 
 mongodb, mysql, mariadb, redis - selected based on what the project actually requires.
 
 ### tools & ides
 
-<p><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,goland" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion" /></p>
 
 - **RustRover** - rust development
 - **GoLand** - go development
