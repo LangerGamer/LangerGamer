@@ -11,8 +11,7 @@ every setback pushed me further into the craft, not away from it. i'm not here t
 outside of coding i know my way around hardware: i can take apart and rebuild systems, diagnose issues, the usual. networking too - i understand how things communicate, not just on the surface. english i picked up on my own, mostly through documentation, technical content, and consistent effort.
 
 🌐 [amirvoid12.ir](https://amirvoid12.ir)
-
--
+.
 
 ## stuff i know
 
@@ -20,11 +19,12 @@ outside of coding i know my way around hardware: i can take apart and rebuild sy
 
 i keep this list intentionally focused. i'm not someone who claims to "know" a long list of languages - the ones below, i actually know, in depth, and use in real work.
 
-<p><img src="https://skillicons.dev/icons?i=rust,go,js,ts,python,java,c,cpp" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,go,rust,js,ts,python,java,c,cpp" /></p>
 
-**rust** - my main language right now. forces you to think properly about ownership, memory, and correctness.
+**node.js** - my main language right now. it's what i build most of my backend work on.
+right now my focus is split between **java**, **typescript**, and **node.js**, with **rust** as my main long-term goal - the language i'm building toward.
 **go** - built for systems and backend work where simplicity and performance both matter.
-**typescript / javascript** - node.js backend development, clean and strongly typed.
+**typescript / javascript** - backend development, clean and strongly typed.
 **python** - for rapid development and getting things done efficiently.
 **java**, **c**, **c++** - core systems and application work.
 **assembly** - for low-level work when the situation calls for it.
@@ -32,6 +32,8 @@ i keep this list intentionally focused. i'm not someone who claims to "know" a l
 **c# (.net)** - applied in real production work.
 
 ### frameworks & technologies
+
+<p><img src="https://skillicons.dev/icons?i=nextjs,vue,tailwind" /></p>
 
 **next.js**, **vue.js** - frontend development when required.
 **tailwindcss** - for styling and rapid UI development.
@@ -50,7 +52,7 @@ mongodb, mysql, mariadb, redis - selected based on what the project actually req
 
 ### tools & ides
 
-<p><img src="https://skillicons.dev/icons?i=vscode,idea,goland" /></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,goland" /></p>
 
 - **RustRover** - rust development
 - **GoLand** - go development
